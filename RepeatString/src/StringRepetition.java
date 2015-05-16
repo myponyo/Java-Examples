@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+/* This program allows you to repeat a string for a given number of times */
 
 public class StringRepetition {
 

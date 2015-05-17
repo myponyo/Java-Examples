@@ -1,6 +1,4 @@
-import java.util.HashMap;
 import java.util.Scanner;
-
 
 /* This program finds the number of occurrences of a substring within a string */
 

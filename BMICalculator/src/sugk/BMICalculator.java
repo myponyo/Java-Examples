@@ -26,6 +26,7 @@ public class BMICalculator {
 			
 			System.out.print("Enter weight (pounds): ");			
 			double weight = scan.nextDouble()/KILOGRAMS_IN_POUNDS;
+			scan.close();
 			
 			double bmi = weight/(height*height);
 			
